@@ -7,4 +7,4 @@ function loadHello(){
     let y = 4;
     let z = x + y;
     alert(z);
-  }
+  
